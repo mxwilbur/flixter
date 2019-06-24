@@ -1,1 +1,22 @@
 @import "bootstrap";
+
+
+.navbar-inverse a.navbar-brand {
+  font-family: josefin_slabregular, sans-serif;
+  font-style: bold;
+  font-size: 48px;
+  color: #6699ff;
+  box-shadow: 0px 3px 6px #2a2a2a;
+  bar-radius: 8px;
+  background: image_url('paper_fibers.png');
+}
+.navbar {
+  box-shadow: 0px 3px 6px #2a2a2a;
+  bar-radius: 8px;
+  background: image_url('paper_fibers.png');
+}
+
+body {
+  background: image_url('stardust.png');
+  font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
+}
