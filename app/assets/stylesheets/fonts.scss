@@ -3,6 +3,15 @@
 
 
 @font-face {
+    font-family: 'josefin_slabregular';
+    src: url('josefinslab-regular-webfont.woff2') format('woff2'),
+         url('josefinslab-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
     font-family: 'josefin_slabbold';
     src: url('josefinslab-bold-webfont.woff2') format('woff2'),
          url('josefinslab-bold-webfont.woff') format('woff');
@@ -15,21 +24,9 @@
 
 
 @font-face {
-    font-family: 'josefin_slabitalic';
-    src: url('josefinslab-italic-webfont.woff2') format('woff2'),
-         url('josefinslab-italic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'josefin_slabregular';
-    src: url('josefinslab-regular-webfont.woff2') format('woff2'),
-         url('josefinslab-regular-webfont.woff') format('woff');
+    font-family: 'josefin_slabsemibold';
+    src: url('josefinslab-semibold-webfont.woff2') format('woff2'),
+         url('josefinslab-semibold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
