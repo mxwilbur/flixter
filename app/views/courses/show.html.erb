@@ -2,4 +2,14 @@
 
 <div class="booyah-box col-6 offset-1">
   <h1><%= @course.title %></h1>
+
+  <div class="col-sm-4 col-12">
+    <span class="badge badge-default">
+      <%= number_to_currency @course.cost %>
+    </span>
+  </div>
+
+  <div class="col-sm-8 col-12">
+    <%= @course.description %>
+  </div>
 </div>
