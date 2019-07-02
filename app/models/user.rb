@@ -4,4 +4,5 @@ class User < ApplicationRecord
   extend Devise::Models
   devise :database_authenticatable, :registerable,
          :recoverable, :validatable
+  has_many :courses
 end
