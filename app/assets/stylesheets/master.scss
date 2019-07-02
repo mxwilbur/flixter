@@ -12,8 +12,8 @@
   left: 25%;
 }
 
-.booyah-box h2, .booyah-box h1 {
-  margin: 10px;
+.text-center {
+  text-align: center;
   color: blue;
 }
 
@@ -86,3 +86,12 @@ body {
   background: image_url('bg.png');
   font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
 }
+
+.help-block {
+  color: #ff3333;
+  background-color: #FFEEEE;
+  border-radius: 3px;
+  padding: 2px 8px 2px 8px;
+  margin: 10px;
+}
+
