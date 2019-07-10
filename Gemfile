@@ -31,7 +31,7 @@ gem 'jquery-rails'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
-gem "mini_magick"
+# gem "mini_magick"
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
@@ -70,8 +70,9 @@ source 'https://rails-assets.org' do
 end
 gem 'simple_form'
 gem 'devise'
-gem 'carrierwave', '>= 2.0.0.rc', '< 3.0'
 gem "fog-aws"
 gem "figaro"
-
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'carrierwave-aws'
 
