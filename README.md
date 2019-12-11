@@ -16,13 +16,8 @@ Online video training with payment interface.  Check it out [link](https://flixt
 - DB Postgresql
 
 # Screenshots
-<img src="images/flixter1.gif"
-    alt="Home Screen"
-    style="float: left; margin-right; 10px;"
-    width="200"/> <img src="flixter2.gif"
-    alt="Home Screen"
-    style="float; left; margin-right: 10px;"
-    width="200"/> 
+![](flixter1.gif)
+![](flixter2.gif)
 # Bugs
 If you find any bugs and would like to report them, you can do so through GitHub issues.  Thanks for your help!
 
