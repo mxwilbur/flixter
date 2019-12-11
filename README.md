@@ -1,24 +1,30 @@
-# README
+# Flixter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Online video training with payment interface.  Check it out [link](https://flixter-mike-wilbur.herokuapp.com "here")!
 
-Things you may want to cover:
+# Usage
+- Video-streaming marketplace to create online tutorials/courses. (e.g. Udacity)
+- Features credit card payment capabilities (test mode)
+- Instructors can create full training programs with multiple sessions as part of overall course.
+- Students can view course offerings, enroll and take courses.
+- Dashboards for instructors and students to keep track of activity.
 
-* Ruby version
+# Software
+- Ruby 2.5.3
+- Rails 5.2.3
+- Bootstrap 4.x
+- DB Postgresql
 
-* System dependencies
+# Screenshots
+<img src="images/flixter1.gif"
+    alt="Home Screen"
+    style="float: left; margin-right; 10px;"
+    width="200"/> <img src="flixter2.gif"
+    alt="Home Screen"
+    style="float; left; margin-right: 10px;"
+    width="200"/> 
+# Bugs
+If you find any bugs and would like to report them, you can do so through GitHub issues.  Thanks for your help!
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Authors
+Mike Wilbur <mxwilbur@outlook.com>
